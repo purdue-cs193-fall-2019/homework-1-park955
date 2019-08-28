@@ -1,4 +1,9 @@
+# My website!
+``` mark here
+
 ## Welcome to GitHub Pages
+
+WOW so much information
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
